@@ -23,7 +23,6 @@ class Program
             Evaluate(model);
             Predict(model);
 
-
         }
         public static void Evaluate(PredictionModel<SentimentData, SentimentPrediction> model)
         {
