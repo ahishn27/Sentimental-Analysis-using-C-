@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sentimental Analysis-Classification", "Sentimental Analysis-Classification\Sentimental Analysis-Classification.csproj", "{8BF8E6EC-44D8-421D-87F9-6300B5B5BE07}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8BF8E6EC-44D8-421D-87F9-6300B5B5BE07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BF8E6EC-44D8-421D-87F9-6300B5B5BE07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BF8E6EC-44D8-421D-87F9-6300B5B5BE07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BF8E6EC-44D8-421D-87F9-6300B5B5BE07}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {82DA01B2-64D4-4B06-B9DF-BFAA8E311EA5}
+	EndGlobalSection
+EndGlobal
